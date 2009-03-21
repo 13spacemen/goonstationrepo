@@ -1,0 +1,8 @@
+svn-revision: 32
+svn-path: /
+svn-author: imseeindouble
+svn-date: 2009-03-12T19:18:55.409695Z
+svn-revprop: google:author='imseeindouble'
+changed-paths:
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell12.dm
+   M /branches/Latest Revision/code/game/objects/items.dm

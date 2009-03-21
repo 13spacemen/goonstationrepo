@@ -1,0 +1,25 @@
+svn-revision: 31
+svn-path: /branches/Latest Revision
+svn-author: imseeindouble
+svn-date: 2009-03-12T19:12:03.442352Z
+svn-revprop: google:author='imseeindouble'
+changed-paths:
+   M /branches/Latest Revision/code/atoms.dm
+   M /branches/Latest Revision/code/game/algorithm.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell 11.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell1.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell10.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell12.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell13.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell14.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell2.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell3.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell4.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell5.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell6.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell7.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell8.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell9.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/wizard.dm
+   M /branches/Latest Revision/code/game/objects/items.dm
+   M /branches/Latest Revision/maps/Space Station 13-new atmos.dmp

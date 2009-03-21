@@ -1,0 +1,8 @@
+svn-revision: 76
+svn-path: /branches/Latest Revision
+svn-author: rick.gibbed
+svn-date: 2009-03-15T22:45:02.235435Z
+svn-revprop: google:author='rick.gibbed'
+changed-paths:
+   M /branches/Latest Revision/code/game/cellautomata.dm
+   M /branches/Latest Revision/code/game/status.dm

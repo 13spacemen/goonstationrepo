@@ -1,0 +1,14 @@
+svn-revision: 55
+svn-path: /
+svn-author: rick.gibbed
+svn-date: 2009-03-14T23:05:18.983658Z
+svn-revprop: google:author='rick.gibbed'
+changed-paths:
+   A /branches/Latest Revision/To-do Rick.txt
+   M /branches/Latest Revision/code/game/chemistry.dm
+   M /branches/Latest Revision/code/game/demo.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/spell 11.dm
+   M /branches/Latest Revision/code/game/machinery/computer.dm
+   M /branches/Latest Revision/code/game/mob/human/death.dm
+   M /branches/Latest Revision/code/game/mob/medal.dm
+   M /branches/Latest Revision/code/gamehelpers.dm

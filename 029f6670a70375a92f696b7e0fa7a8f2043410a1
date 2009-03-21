@@ -1,0 +1,13 @@
+svn-revision: 1
+svn-path: /
+svn-author: 
+svn-date: 2009-03-09T15:42:28.193618Z
+changed-paths:
+   A /branches/
+   A /tags/
+   A /trunk/
+svn-r0-revprop: svn:date='2009-03-09T15:42:27.718475Z'
+svn-r0-revprop: svn:sync-from-url='http://goonstationrepo.googlecode.com/svn'
+svn-r0-revprop: svn:sync-from-uuid='e4a2f0c6-0cc0-11de-a490-4563d82dadc6'
+svn-r0-revprop: svn:sync-last-merged-rev='89'
+svn-dump-uuid: 134ad127-9690-4015-bf30-b44535a839c7 (UUID of the svnsync mirror the dump was made from)

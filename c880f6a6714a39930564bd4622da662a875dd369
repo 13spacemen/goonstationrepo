@@ -1,0 +1,13 @@
+svn-revision: 11
+svn-path: /branches/Latest Revision
+svn-author: lawlkeelin
+svn-date: 2009-03-09T17:29:49.969485Z
+svn-revprop: google:author='lawlkeelin'
+changed-paths:
+   M /branches/Latest Revision/Public.dmb
+   M /branches/Latest Revision/Public.dme
+   M /branches/Latest Revision/Public.dyn.rsc
+   M /branches/Latest Revision/Public.rsc
+   M /branches/Latest Revision/code/atoms.dm
+   M /branches/Latest Revision/code/game/demo.dm
+   M /branches/Latest Revision/code/game/objects/items.dm

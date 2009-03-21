@@ -1,0 +1,10 @@
+svn-revision: 27
+svn-path: /
+svn-author: imseeindouble
+svn-date: 2009-03-12T16:54:37.400259Z
+svn-revprop: google:author='imseeindouble'
+changed-paths:
+   M /branches/Latest Revision/code/changelog.dm
+   M /branches/Latest Revision/code/game/admin/admin.dm
+   M /branches/Latest Revision/code/game/machinery/apc.dm
+   M /branches/Latest Revision/code/game/mob/mob.dm

@@ -1,0 +1,9 @@
+svn-revision: 74
+svn-path: /branches/Latest Revision
+svn-author: rick.gibbed
+svn-date: 2009-03-15T22:12:40.222914Z
+svn-revprop: google:author='rick.gibbed'
+changed-paths:
+   M /branches/Latest Revision/code/game/status.dm
+   M /branches/Latest Revision/code/game/topic.dm
+   M /branches/Latest Revision/code/globals.dm

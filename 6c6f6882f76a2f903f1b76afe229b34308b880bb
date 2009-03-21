@@ -1,0 +1,9 @@
+svn-revision: 13
+svn-path: /branches/Latest Revision
+svn-author: lawlkeelin
+svn-date: 2009-03-09T21:28:18.058180Z
+svn-revprop: google:author='lawlkeelin'
+changed-paths:
+   M /branches/Latest Revision/code/game/mob/human/life.dm
+   M /branches/Latest Revision/code/game/mob/monkey/life.dm
+   M /branches/Latest Revision/code/setup.dm

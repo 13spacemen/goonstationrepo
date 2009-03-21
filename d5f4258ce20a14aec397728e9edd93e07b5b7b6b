@@ -1,0 +1,16 @@
+svn-revision: 53
+svn-path: /
+svn-author: rick.gibbed
+svn-date: 2009-03-14T22:22:21.341714Z
+svn-revprop: google:author='rick.gibbed'
+changed-paths:
+   M /branches/Latest Revision/
+   M /branches/Latest Revision/Public.dme
+   M /branches/Latest Revision/code/game/demo.dm
+   M /branches/Latest Revision/code/game/gamemodes/traitor/traitor.dm
+   M /branches/Latest Revision/code/game/machinery/camera.dm
+   M /branches/Latest Revision/code/game/mob/human/life.dm
+   A /branches/Latest Revision/code/game/mob/medal.dm
+   M /branches/Latest Revision/code/game/objects/items.dm
+node-properties (as set in this revision):
+   /branches/Latest Revision: svn:ignore='*.lk\n*.rsc\n*.dmb\n'

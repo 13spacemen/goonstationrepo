@@ -1,0 +1,23 @@
+svn-revision: 80
+svn-path: /branches/Latest Revision
+svn-author: lawlkeelin
+svn-date: 2009-03-16T09:10:45.979379Z
+svn-revprop: google:author='lawlkeelin'
+changed-paths:
+   M /branches/Latest Revision/Public.dme
+   M /branches/Latest Revision/code/game/gamemodes/blob/blob.dm
+   M /branches/Latest Revision/code/game/gamemodes/extended/extended.dm
+   M /branches/Latest Revision/code/game/gamemodes/game_mode.dm
+   M /branches/Latest Revision/code/game/gamemodes/malfunction/malfunction.dm
+   M /branches/Latest Revision/code/game/gamemodes/meteor/meteor.dm
+   M /branches/Latest Revision/code/game/gamemodes/monkey/monkey.dm
+   M /branches/Latest Revision/code/game/gamemodes/nuclear/nuclear.dm
+   M /branches/Latest Revision/code/game/gamemodes/restructuring/restructuring.dm
+   M /branches/Latest Revision/code/game/gamemodes/revolution/revolution.dm
+   M /branches/Latest Revision/code/game/gamemodes/sandbox/sandbox.dm
+   A /branches/Latest Revision/code/game/gamemodes/setupgame.dm
+   M /branches/Latest Revision/code/game/gamemodes/traitor/traitor.dm
+   M /branches/Latest Revision/code/game/gamemodes/wizard/wizard.dm
+   M /branches/Latest Revision/code/game/objects/cleaner.dm
+   M /branches/Latest Revision/code/game/objects/items.dm
+   M /branches/Latest Revision/code/globals.dm

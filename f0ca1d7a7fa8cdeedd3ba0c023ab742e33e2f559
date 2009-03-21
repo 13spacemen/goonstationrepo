@@ -1,0 +1,8 @@
+svn-revision: 25
+svn-path: /branches/Latest Revision
+svn-author: lawlkeelin
+svn-date: 2009-03-11T21:38:37.196067Z
+svn-revprop: google:author='lawlkeelin'
+changed-paths:
+   M /branches/Latest Revision/code/game/objects/cleaner.dm
+   M /branches/Latest Revision/code/game/objects/items.dm

@@ -1,0 +1,10 @@
+svn-revision: 87
+svn-path: /branches/Latest Revision
+svn-author: imseeindouble
+svn-date: 2009-03-16T20:00:13.397049Z
+svn-revprop: google:author='imseeindouble'
+changed-paths:
+   M /branches/Latest Revision/code/game/admin/admin.dm
+   M /branches/Latest Revision/code/game/admin/banjob.dm
+   M /branches/Latest Revision/code/game/mob/mob.dm
+   M /branches/Latest Revision/data/job_full.ban
